@@ -1,0 +1,17 @@
+# Derleme çıktıları
+bin/
+obj/
+publish/
+*.user
+
+# Visual Studio / Rider
+.vs/
+.idea/
+*.suo
+*.userprefs
+
+# Yerel veriler / geçici
+*.db
+*.db-shm
+*.db-wal
+*.log
