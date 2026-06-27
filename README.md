@@ -1,4 +1,4 @@
-# LoadStock
+# Load-Stock
 
 Zara, Bershka ve Stradivarius (Türkiye) mağazalarında takip ettiğiniz ürünler **stoğa girince** sizi Windows bildirimiyle uyaran, sistem tepsisinde çalışan küçük bir masaüstü uygulaması.
 
